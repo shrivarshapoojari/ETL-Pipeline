@@ -1,0 +1,565 @@
+[
+    {
+        "label": "contextmanager",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "contextmanager",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "DagBag",
+        "importPath": "airflow.models",
+        "description": "airflow.models",
+        "isExtraImport": true,
+        "detail": "airflow.models",
+        "documentation": {}
+    },
+    {
+        "label": "Variable",
+        "importPath": "airflow.models",
+        "description": "airflow.models",
+        "isExtraImport": true,
+        "detail": "airflow.models",
+        "documentation": {}
+    },
+    {
+        "label": "Connection",
+        "importPath": "airflow.models",
+        "description": "airflow.models",
+        "isExtraImport": true,
+        "detail": "airflow.models",
+        "documentation": {}
+    },
+    {
+        "label": "DagBag",
+        "importPath": "airflow.models",
+        "description": "airflow.models",
+        "isExtraImport": true,
+        "detail": "airflow.models",
+        "documentation": {}
+    },
+    {
+        "label": "BaseHook",
+        "importPath": "airflow.hooks.base",
+        "description": "airflow.hooks.base",
+        "isExtraImport": true,
+        "detail": "airflow.hooks.base",
+        "documentation": {}
+    },
+    {
+        "label": "initdb",
+        "importPath": "airflow.utils.db",
+        "description": "airflow.utils.db",
+        "isExtraImport": true,
+        "detail": "airflow.utils.db",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "libcst",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "libcst",
+        "description": "libcst",
+        "detail": "libcst",
+        "documentation": {}
+    },
+    {
+        "label": "pathlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "DAG",
+        "importPath": "airflow",
+        "description": "airflow",
+        "isExtraImport": true,
+        "detail": "airflow",
+        "documentation": {}
+    },
+    {
+        "label": "SimpleHttpOperator",
+        "importPath": "airflow.providers.http.operators.http",
+        "description": "airflow.providers.http.operators.http",
+        "isExtraImport": true,
+        "detail": "airflow.providers.http.operators.http",
+        "documentation": {}
+    },
+    {
+        "label": "task",
+        "importPath": "airflow.decorators",
+        "description": "airflow.decorators",
+        "isExtraImport": true,
+        "detail": "airflow.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "MySqlHook",
+        "importPath": "airflow.providers.mysql.hooks.mysql",
+        "description": "airflow.providers.mysql.hooks.mysql",
+        "isExtraImport": true,
+        "detail": "airflow.providers.mysql.hooks.mysql",
+        "documentation": {}
+    },
+    {
+        "label": "days_ago",
+        "importPath": "airflow.utils.dates",
+        "description": "airflow.utils.dates",
+        "isExtraImport": true,
+        "detail": "airflow.utils.dates",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "magic_dict",
+        "kind": 6,
+        "importPath": ".astro.test_dag_integrity_default",
+        "description": ".astro.test_dag_integrity_default",
+        "peekOfCode": "class magic_dict(dict):\n    def __init__(self, *args, **kwargs):\n        self.update(*args, **kwargs)\n    def __getitem__(self, key):\n        return {}.get(key, \"MOCKED_KEY_VALUE\")\n_no_default = object()  # allow falsey defaults\ndef variable_get_monkeypatch(key: str, default_var=_no_default, deserialize_json=False):\n    print(\n        f\"Attempted to get Variable value during parse, returning a mocked value for {key}\"\n    )",
+        "detail": ".astro.test_dag_integrity_default",
+        "documentation": {}
+    },
+    {
+        "label": "basehook_get_connection_monkeypatch",
+        "kind": 2,
+        "importPath": ".astro.test_dag_integrity_default",
+        "description": ".astro.test_dag_integrity_default",
+        "peekOfCode": "def basehook_get_connection_monkeypatch(key: str, *args, **kwargs):\n    print(\n        f\"Attempted to fetch connection during parse returning an empty Connection object for {key}\"\n    )\n    return Connection(key)\nBaseHook.get_connection = basehook_get_connection_monkeypatch\n# # =========== /MONKEYPATCH BASEHOOK.GET_CONNECTION() ===========\n# =========== MONKEYPATCH OS.GETENV() ===========\ndef os_getenv_monkeypatch(key: str, *args, **kwargs):\n    default = None",
+        "detail": ".astro.test_dag_integrity_default",
+        "documentation": {}
+    },
+    {
+        "label": "os_getenv_monkeypatch",
+        "kind": 2,
+        "importPath": ".astro.test_dag_integrity_default",
+        "description": ".astro.test_dag_integrity_default",
+        "peekOfCode": "def os_getenv_monkeypatch(key: str, *args, **kwargs):\n    default = None\n    if args:\n        default = args[0]  # os.getenv should get at most 1 arg after the key\n    if kwargs:\n        default = kwargs.get(\n            \"default\", None\n        )  # and sometimes kwarg if people are using the sig\n    env_value = os.environ.get(key, None)\n    if env_value:",
+        "detail": ".astro.test_dag_integrity_default",
+        "documentation": {}
+    },
+    {
+        "label": "variable_get_monkeypatch",
+        "kind": 2,
+        "importPath": ".astro.test_dag_integrity_default",
+        "description": ".astro.test_dag_integrity_default",
+        "peekOfCode": "def variable_get_monkeypatch(key: str, default_var=_no_default, deserialize_json=False):\n    print(\n        f\"Attempted to get Variable value during parse, returning a mocked value for {key}\"\n    )\n    if default_var is not _no_default:\n        return default_var\n    if deserialize_json:\n        return magic_dict()\n    return \"NON_DEFAULT_MOCKED_VARIABLE_VALUE\"\nVariable.get = variable_get_monkeypatch",
+        "detail": ".astro.test_dag_integrity_default",
+        "documentation": {}
+    },
+    {
+        "label": "suppress_logging",
+        "kind": 2,
+        "importPath": ".astro.test_dag_integrity_default",
+        "description": ".astro.test_dag_integrity_default",
+        "peekOfCode": "def suppress_logging(namespace):\n    \"\"\"\n    Suppress logging within a specific namespace to keep tests \"clean\" during build\n    \"\"\"\n    logger = logging.getLogger(namespace)\n    old_value = logger.disabled\n    logger.disabled = True\n    try:\n        yield\n    finally:",
+        "detail": ".astro.test_dag_integrity_default",
+        "documentation": {}
+    },
+    {
+        "label": "get_import_errors",
+        "kind": 2,
+        "importPath": ".astro.test_dag_integrity_default",
+        "description": ".astro.test_dag_integrity_default",
+        "peekOfCode": "def get_import_errors():\n    \"\"\"\n    Generate a tuple for import errors in the dag bag, and include DAGs without errors.\n    \"\"\"\n    with suppress_logging(\"airflow\"):\n        dag_bag = DagBag(include_examples=False)\n        def strip_path_prefix(path):\n            return os.path.relpath(path, os.environ.get(\"AIRFLOW_HOME\"))\n        # Initialize an empty list to store the tuples\n        result = []",
+        "detail": ".astro.test_dag_integrity_default",
+        "documentation": {}
+    },
+    {
+        "label": "test_file_imports",
+        "kind": 2,
+        "importPath": ".astro.test_dag_integrity_default",
+        "description": ".astro.test_dag_integrity_default",
+        "peekOfCode": "def test_file_imports(rel_path, rv):\n    \"\"\"Test for import errors on a file\"\"\"\n    if os.path.exists(\".astro/dag_integrity_exceptions.txt\"):\n        with open(\".astro/dag_integrity_exceptions.txt\", \"r\") as f:\n            exceptions = f.readlines()\n    print(f\"Exceptions: {exceptions}\")\n    if (rv != \"No import errors\") and rel_path not in exceptions:\n        # If rv is not \"No import errors,\" consider it a failed test\n        raise Exception(f\"{rel_path} failed to import with message \\n {rv}\")\n    else:",
+        "detail": ".astro.test_dag_integrity_default",
+        "documentation": {}
+    },
+    {
+        "label": "BaseHook.get_connection",
+        "kind": 5,
+        "importPath": ".astro.test_dag_integrity_default",
+        "description": ".astro.test_dag_integrity_default",
+        "peekOfCode": "BaseHook.get_connection = basehook_get_connection_monkeypatch\n# # =========== /MONKEYPATCH BASEHOOK.GET_CONNECTION() ===========\n# =========== MONKEYPATCH OS.GETENV() ===========\ndef os_getenv_monkeypatch(key: str, *args, **kwargs):\n    default = None\n    if args:\n        default = args[0]  # os.getenv should get at most 1 arg after the key\n    if kwargs:\n        default = kwargs.get(\n            \"default\", None",
+        "detail": ".astro.test_dag_integrity_default",
+        "documentation": {}
+    },
+    {
+        "label": "os.getenv",
+        "kind": 5,
+        "importPath": ".astro.test_dag_integrity_default",
+        "description": ".astro.test_dag_integrity_default",
+        "peekOfCode": "os.getenv = os_getenv_monkeypatch\n# # =========== /MONKEYPATCH OS.GETENV() ===========\n# =========== MONKEYPATCH VARIABLE.GET() ===========\nclass magic_dict(dict):\n    def __init__(self, *args, **kwargs):\n        self.update(*args, **kwargs)\n    def __getitem__(self, key):\n        return {}.get(key, \"MOCKED_KEY_VALUE\")\n_no_default = object()  # allow falsey defaults\ndef variable_get_monkeypatch(key: str, default_var=_no_default, deserialize_json=False):",
+        "detail": ".astro.test_dag_integrity_default",
+        "documentation": {}
+    },
+    {
+        "label": "_no_default",
+        "kind": 5,
+        "importPath": ".astro.test_dag_integrity_default",
+        "description": ".astro.test_dag_integrity_default",
+        "peekOfCode": "_no_default = object()  # allow falsey defaults\ndef variable_get_monkeypatch(key: str, default_var=_no_default, deserialize_json=False):\n    print(\n        f\"Attempted to get Variable value during parse, returning a mocked value for {key}\"\n    )\n    if default_var is not _no_default:\n        return default_var\n    if deserialize_json:\n        return magic_dict()\n    return \"NON_DEFAULT_MOCKED_VARIABLE_VALUE\"",
+        "detail": ".astro.test_dag_integrity_default",
+        "documentation": {}
+    },
+    {
+        "label": "Variable.get",
+        "kind": 5,
+        "importPath": ".astro.test_dag_integrity_default",
+        "description": ".astro.test_dag_integrity_default",
+        "peekOfCode": "Variable.get = variable_get_monkeypatch\n# # =========== /MONKEYPATCH VARIABLE.GET() ===========\n@contextmanager\ndef suppress_logging(namespace):\n    \"\"\"\n    Suppress logging within a specific namespace to keep tests \"clean\" during build\n    \"\"\"\n    logger = logging.getLogger(namespace)\n    old_value = logger.disabled\n    logger.disabled = True",
+        "detail": ".astro.test_dag_integrity_default",
+        "documentation": {}
+    },
+    {
+        "label": "adminCallTransformer",
+        "kind": 6,
+        "importPath": ".venv.Scripts.fixup_admin_v2_keywords",
+        "description": ".venv.Scripts.fixup_admin_v2_keywords",
+        "peekOfCode": "class adminCallTransformer(cst.CSTTransformer):\n    CTRL_PARAMS: Tuple[str] = ('retry', 'timeout', 'metadata')\n    METHOD_TO_PARAMS: Dict[str, Tuple[str]] = {\n        'check_consistency': ('name', 'consistency_token', 'standard_read_remote_writes', 'data_boost_read_local_writes', ),\n        'copy_backup': ('parent', 'backup_id', 'source_backup', 'expire_time', ),\n        'create_app_profile': ('parent', 'app_profile_id', 'app_profile', 'ignore_warnings', ),\n        'create_authorized_view': ('parent', 'authorized_view_id', 'authorized_view', ),\n        'create_backup': ('parent', 'backup_id', 'backup', ),\n        'create_cluster': ('parent', 'cluster_id', 'cluster', ),\n        'create_instance': ('parent', 'instance_id', 'instance', 'clusters', ),",
+        "detail": ".venv.Scripts.fixup_admin_v2_keywords",
+        "documentation": {}
+    },
+    {
+        "label": "partition",
+        "kind": 2,
+        "importPath": ".venv.Scripts.fixup_admin_v2_keywords",
+        "description": ".venv.Scripts.fixup_admin_v2_keywords",
+        "peekOfCode": "def partition(\n    predicate: Callable[[Any], bool],\n    iterator: Sequence[Any]\n) -> Tuple[List[Any], List[Any]]:\n    \"\"\"A stable, out-of-place partition.\"\"\"\n    results = ([], [])\n    for i in iterator:\n        results[int(predicate(i))].append(i)\n    # Returns trueList, falseList\n    return results[1], results[0]",
+        "detail": ".venv.Scripts.fixup_admin_v2_keywords",
+        "documentation": {}
+    },
+    {
+        "label": "fix_files",
+        "kind": 2,
+        "importPath": ".venv.Scripts.fixup_admin_v2_keywords",
+        "description": ".venv.Scripts.fixup_admin_v2_keywords",
+        "peekOfCode": "def fix_files(\n    in_dir: pathlib.Path,\n    out_dir: pathlib.Path,\n    *,\n    transformer=adminCallTransformer(),\n):\n    \"\"\"Duplicate the input dir to the output dir, fixing file method calls.\n    Preconditions:\n    * in_dir is a real directory\n    * out_dir is a real, empty directory",
+        "detail": ".venv.Scripts.fixup_admin_v2_keywords",
+        "documentation": {}
+    },
+    {
+        "label": "bigtableCallTransformer",
+        "kind": 6,
+        "importPath": ".venv.Scripts.fixup_bigtable_v2_keywords",
+        "description": ".venv.Scripts.fixup_bigtable_v2_keywords",
+        "peekOfCode": "class bigtableCallTransformer(cst.CSTTransformer):\n    CTRL_PARAMS: Tuple[str] = ('retry', 'timeout', 'metadata')\n    METHOD_TO_PARAMS: Dict[str, Tuple[str]] = {\n        'check_and_mutate_row': ('row_key', 'table_name', 'authorized_view_name', 'app_profile_id', 'predicate_filter', 'true_mutations', 'false_mutations', ),\n        'execute_query': ('instance_name', 'query', 'params', 'app_profile_id', 'prepared_query', 'proto_format', 'resume_token', ),\n        'generate_initial_change_stream_partitions': ('table_name', 'app_profile_id', ),\n        'mutate_row': ('row_key', 'mutations', 'table_name', 'authorized_view_name', 'app_profile_id', 'idempotency', ),\n        'mutate_rows': ('entries', 'table_name', 'authorized_view_name', 'app_profile_id', ),\n        'ping_and_warm': ('name', 'app_profile_id', ),\n        'prepare_query': ('instance_name', 'query', 'param_types', 'app_profile_id', 'proto_format', ),",
+        "detail": ".venv.Scripts.fixup_bigtable_v2_keywords",
+        "documentation": {}
+    },
+    {
+        "label": "partition",
+        "kind": 2,
+        "importPath": ".venv.Scripts.fixup_bigtable_v2_keywords",
+        "description": ".venv.Scripts.fixup_bigtable_v2_keywords",
+        "peekOfCode": "def partition(\n    predicate: Callable[[Any], bool],\n    iterator: Sequence[Any]\n) -> Tuple[List[Any], List[Any]]:\n    \"\"\"A stable, out-of-place partition.\"\"\"\n    results = ([], [])\n    for i in iterator:\n        results[int(predicate(i))].append(i)\n    # Returns trueList, falseList\n    return results[1], results[0]",
+        "detail": ".venv.Scripts.fixup_bigtable_v2_keywords",
+        "documentation": {}
+    },
+    {
+        "label": "fix_files",
+        "kind": 2,
+        "importPath": ".venv.Scripts.fixup_bigtable_v2_keywords",
+        "description": ".venv.Scripts.fixup_bigtable_v2_keywords",
+        "peekOfCode": "def fix_files(\n    in_dir: pathlib.Path,\n    out_dir: pathlib.Path,\n    *,\n    transformer=bigtableCallTransformer(),\n):\n    \"\"\"Duplicate the input dir to the output dir, fixing file method calls.\n    Preconditions:\n    * in_dir is a real directory\n    * out_dir is a real, empty directory",
+        "detail": ".venv.Scripts.fixup_bigtable_v2_keywords",
+        "documentation": {}
+    },
+    {
+        "label": "pubsubCallTransformer",
+        "kind": 6,
+        "importPath": ".venv.Scripts.fixup_pubsub_v1_keywords",
+        "description": ".venv.Scripts.fixup_pubsub_v1_keywords",
+        "peekOfCode": "class pubsubCallTransformer(cst.CSTTransformer):\n    CTRL_PARAMS: Tuple[str] = ('retry', 'timeout', 'metadata')\n    METHOD_TO_PARAMS: Dict[str, Tuple[str]] = {\n        'acknowledge': ('subscription', 'ack_ids', ),\n        'commit_schema': ('name', 'schema', ),\n        'create_schema': ('parent', 'schema', 'schema_id', ),\n        'create_snapshot': ('name', 'subscription', 'labels', ),\n        'create_subscription': ('name', 'topic', 'push_config', 'bigquery_config', 'cloud_storage_config', 'ack_deadline_seconds', 'retain_acked_messages', 'message_retention_duration', 'labels', 'enable_message_ordering', 'expiration_policy', 'filter', 'dead_letter_policy', 'retry_policy', 'detached', 'enable_exactly_once_delivery', 'topic_message_retention_duration', 'state', 'analytics_hub_subscription_info', 'message_transforms', ),\n        'create_topic': ('name', 'labels', 'message_storage_policy', 'kms_key_name', 'schema_settings', 'satisfies_pzs', 'message_retention_duration', 'state', 'ingestion_data_source_settings', 'message_transforms', ),\n        'delete_schema': ('name', ),",
+        "detail": ".venv.Scripts.fixup_pubsub_v1_keywords",
+        "documentation": {}
+    },
+    {
+        "label": "partition",
+        "kind": 2,
+        "importPath": ".venv.Scripts.fixup_pubsub_v1_keywords",
+        "description": ".venv.Scripts.fixup_pubsub_v1_keywords",
+        "peekOfCode": "def partition(\n    predicate: Callable[[Any], bool],\n    iterator: Sequence[Any]\n) -> Tuple[List[Any], List[Any]]:\n    \"\"\"A stable, out-of-place partition.\"\"\"\n    results = ([], [])\n    for i in iterator:\n        results[int(predicate(i))].append(i)\n    # Returns trueList, falseList\n    return results[1], results[0]",
+        "detail": ".venv.Scripts.fixup_pubsub_v1_keywords",
+        "documentation": {}
+    },
+    {
+        "label": "fix_files",
+        "kind": 2,
+        "importPath": ".venv.Scripts.fixup_pubsub_v1_keywords",
+        "description": ".venv.Scripts.fixup_pubsub_v1_keywords",
+        "peekOfCode": "def fix_files(\n    in_dir: pathlib.Path,\n    out_dir: pathlib.Path,\n    *,\n    transformer=pubsubCallTransformer(),\n):\n    \"\"\"Duplicate the input dir to the output dir, fixing file method calls.\n    Preconditions:\n    * in_dir is a real directory\n    * out_dir is a real, empty directory",
+        "detail": ".venv.Scripts.fixup_pubsub_v1_keywords",
+        "documentation": {}
+    },
+    {
+        "label": "suppress_logging",
+        "kind": 2,
+        "importPath": "tests.dags.test_dag_example",
+        "description": "tests.dags.test_dag_example",
+        "peekOfCode": "def suppress_logging(namespace):\n    logger = logging.getLogger(namespace)\n    old_value = logger.disabled\n    logger.disabled = True\n    try:\n        yield\n    finally:\n        logger.disabled = old_value\ndef get_import_errors():\n    \"\"\"",
+        "detail": "tests.dags.test_dag_example",
+        "documentation": {}
+    },
+    {
+        "label": "get_import_errors",
+        "kind": 2,
+        "importPath": "tests.dags.test_dag_example",
+        "description": "tests.dags.test_dag_example",
+        "peekOfCode": "def get_import_errors():\n    \"\"\"\n    Generate a tuple for import errors in the dag bag\n    \"\"\"\n    with suppress_logging(\"airflow\"):\n        dag_bag = DagBag(include_examples=False)\n        def strip_path_prefix(path):\n            return os.path.relpath(path, os.environ.get(\"AIRFLOW_HOME\"))\n        # prepend \"(None,None)\" to ensure that a test object is always created even if it's a no op.\n        return [(None, None)] + [",
+        "detail": "tests.dags.test_dag_example",
+        "documentation": {}
+    },
+    {
+        "label": "get_dags",
+        "kind": 2,
+        "importPath": "tests.dags.test_dag_example",
+        "description": "tests.dags.test_dag_example",
+        "peekOfCode": "def get_dags():\n    \"\"\"\n    Generate a tuple of dag_id, <DAG objects> in the DagBag\n    \"\"\"\n    with suppress_logging(\"airflow\"):\n        dag_bag = DagBag(include_examples=False)\n    def strip_path_prefix(path):\n        return os.path.relpath(path, os.environ.get(\"AIRFLOW_HOME\"))\n    return [(k, v, strip_path_prefix(v.fileloc)) for k, v in dag_bag.dags.items()]\n@pytest.mark.parametrize(",
+        "detail": "tests.dags.test_dag_example",
+        "documentation": {}
+    },
+    {
+        "label": "test_file_imports",
+        "kind": 2,
+        "importPath": "tests.dags.test_dag_example",
+        "description": "tests.dags.test_dag_example",
+        "peekOfCode": "def test_file_imports(rel_path, rv):\n    \"\"\"Test for import errors on a file\"\"\"\n    if rel_path and rv:\n        raise Exception(f\"{rel_path} failed to import with message \\n {rv}\")\nAPPROVED_TAGS = {}\n@pytest.mark.parametrize(\n    \"dag_id,dag,fileloc\", get_dags(), ids=[x[2] for x in get_dags()]\n)\ndef test_dag_tags(dag_id, dag, fileloc):\n    \"\"\"",
+        "detail": "tests.dags.test_dag_example",
+        "documentation": {}
+    },
+    {
+        "label": "test_dag_tags",
+        "kind": 2,
+        "importPath": "tests.dags.test_dag_example",
+        "description": "tests.dags.test_dag_example",
+        "peekOfCode": "def test_dag_tags(dag_id, dag, fileloc):\n    \"\"\"\n    test if a DAG is tagged and if those TAGs are in the approved list\n    \"\"\"\n    assert dag.tags, f\"{dag_id} in {fileloc} has no tags\"\n    if APPROVED_TAGS:\n        assert not set(dag.tags) - APPROVED_TAGS\n@pytest.mark.parametrize(\n    \"dag_id,dag, fileloc\", get_dags(), ids=[x[2] for x in get_dags()]\n)",
+        "detail": "tests.dags.test_dag_example",
+        "documentation": {}
+    },
+    {
+        "label": "test_dag_retries",
+        "kind": 2,
+        "importPath": "tests.dags.test_dag_example",
+        "description": "tests.dags.test_dag_example",
+        "peekOfCode": "def test_dag_retries(dag_id, dag, fileloc):\n    \"\"\"\n    test if a DAG has retries set\n    \"\"\"\n    assert (\n        dag.default_args.get(\"retries\", None) >= 2\n    ), f\"{dag_id} in {fileloc} must have task retries >= 2.\"",
+        "detail": "tests.dags.test_dag_example",
+        "documentation": {}
+    },
+    {
+        "label": "APPROVED_TAGS",
+        "kind": 5,
+        "importPath": "tests.dags.test_dag_example",
+        "description": "tests.dags.test_dag_example",
+        "peekOfCode": "APPROVED_TAGS = {}\n@pytest.mark.parametrize(\n    \"dag_id,dag,fileloc\", get_dags(), ids=[x[2] for x in get_dags()]\n)\ndef test_dag_tags(dag_id, dag, fileloc):\n    \"\"\"\n    test if a DAG is tagged and if those TAGs are in the approved list\n    \"\"\"\n    assert dag.tags, f\"{dag_id} in {fileloc} has no tags\"\n    if APPROVED_TAGS:",
+        "detail": "tests.dags.test_dag_example",
+        "documentation": {}
+    }
+]
