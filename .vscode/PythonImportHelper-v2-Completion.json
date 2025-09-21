@@ -296,10 +296,10 @@
     },
     {
         "label": "PostgresHook",
-        "importPath": "airflow.providers.postgres",
-        "description": "airflow.providers.postgres",
+        "importPath": "airflow.providers.postgres.hooks.postgres",
+        "description": "airflow.providers.postgres.hooks.postgres",
         "isExtraImport": true,
-        "detail": "airflow.providers.postgres",
+        "detail": "airflow.providers.postgres.hooks.postgres",
         "documentation": {}
     },
     {
