@@ -295,11 +295,11 @@
         "documentation": {}
     },
     {
-        "label": "MySqlHook",
-        "importPath": "airflow.providers.mysql.hooks.mysql",
-        "description": "airflow.providers.mysql.hooks.mysql",
+        "label": "PostgresHook",
+        "importPath": "airflow.providers.postgres",
+        "description": "airflow.providers.postgres",
         "isExtraImport": true,
-        "detail": "airflow.providers.mysql.hooks.mysql",
+        "detail": "airflow.providers.postgres",
         "documentation": {}
     },
     {
