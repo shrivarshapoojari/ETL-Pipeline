@@ -33,7 +33,15 @@ with DAG(
 
 
   # Extract NASA API DATA
-
+  extract_apod=SimpleHttpOperator(
+    task_id="extract_apod",
+    http_conn_id="nasa_api",
+    endpoint="planetary/apod"
+    method='GET',
+    data={"api_key":"{{conn.nasa_api.extra_dejson.api_key}}"}
+    response_filter=lambda response:response.json()
+    
+  )
 
 
   # Transform JSON DATA

@@ -1,8 +1,7 @@
-version: '3'
 services:
   postgres:
    image: postgres:13
-   container_name: postgrs_db
+   container_name: postgres_db
    environment:
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: postgres
